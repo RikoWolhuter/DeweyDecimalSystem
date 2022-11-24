@@ -1,0 +1,5 @@
+Changes made to Form1: Removed unnecessary events/method, changed naming conventions for the three clicks to - "ReplacingBooks_Click", "IdentifyingAreas_Click" and "Finding_Call_Numbers_Click", and for the objects i gave them names of there purpose such as - "Form6 Finding_Call_Numbers = new Form6();".
+
+Changes made to Form 2: for some methods/events that were either label* or buttonclick* they were given names, AddAuthors method created to handle adding authors code.
+
+Changes made to Form 5: Changed the naming conventions and split the code into three methods:AddingToDicionary, GiveRandomValuesToColumns and AddValuesRightColumn.
